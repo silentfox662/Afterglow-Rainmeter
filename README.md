@@ -55,3 +55,11 @@ If a widget is blank or isn't changing colors, check **Rainmeter → About → L
 Version 1.0 Community Edition. The creator has confirmed album-color updates working on their Windows setup. Wider clean-install and compatibility testing is still welcome.
 
 **Note:** Artwork, fonts, wallpapers, and third-party plugins are not included. A source-code license has not yet been selected.
+
+## Wallpaper used in showcase 🌅
+
+The sunset-and-snowy-mountains wallpaper shown in the Afterglow desktop screenshots is available from its original download page:
+
+**[Windows 11 Landscape Scenery Sunset Stock Night — 4K Wallpapers](https://4kwallpapers.com/nature/windows-11-landscape-scenery-sunset-stock-night-5670.html)**
+
+The image is **not included** in the Afterglow installer or source files. It is third-party artwork; please download it from the linked site and respect the copyright holder's terms. Afterglow works with any wallpaper.
